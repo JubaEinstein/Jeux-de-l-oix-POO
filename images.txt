@@ -1,0 +1,10 @@
+Cat
+House
+Computer
+Chair
+Hand
+Car
+Dog
+Chicken
+Balloon
+Screen
